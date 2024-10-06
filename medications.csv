@@ -1,0 +1,11 @@
+MedicationID,MedicationName,PrescribedForDiseaseID
+1,Cisplatin,1
+2,Carboplatin,1
+3,Paclitaxel,2
+4,Gemcitabine,2
+5,Docetaxel,2
+6,Erlotinib,2
+7,Osimertinib,2
+8,Pembrolizumab,2
+9,Atezolizumab,2
+10,Nivolumab,1
