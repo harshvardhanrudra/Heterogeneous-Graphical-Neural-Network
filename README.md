@@ -11,9 +11,7 @@ This repository contains the implementation of a Heterogeneous Graphical Neural 
 - [Datasets](#datasets)
 - [Evaluation](#evaluation)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
+
 
 ## Overview
 Conventional drug recommendation models often fail to capture the complex interactions within EHR data. Our project addresses this limitation by representing EHR data as a Heterogeneous Information Network (HIN) and applying graph representation learning techniques to enhance the drug recommendation process. This approach models various entities (e.g., patients, medications, diagnoses) and their interrelations, allowing for more personalized and accurate drug recommendations.
